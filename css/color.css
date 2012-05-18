@@ -1,0 +1,9 @@
+.singleColor{
+   width: 80px; 
+   height: 20px; 
+   float:left; 
+   margin-right: 0px;
+}
+.colorDesc{
+   float:left; 
+}

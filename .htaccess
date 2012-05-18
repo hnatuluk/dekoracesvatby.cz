@@ -1,0 +1,5 @@
+ErrorDocument 400 http://www.dekoracesvatby.cz/
+ErrorDocument 401 http://www.dekoracesvatby.cz/
+ErrorDocument 403 http://www.dekoracesvatby.cz/
+ErrorDocument 404 http://www.dekoracesvatby.cz/
+ErrorDocument 500 http://www.dekoracesvatby.cz/
